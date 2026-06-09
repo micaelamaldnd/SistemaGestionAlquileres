@@ -1,0 +1,8 @@
+1;COMUN;Juan Perez;3;15000
+2;PREMIUM;Maria Gomez;5;25000
+3;COMUN;Pedro Diaz;2;12000
+4;PREMIUM;Ana Lopez;7;30000
+5;COMUN;Luis Torres;1;10000
+6;PREMIUM;Carlos Ruiz;10;40000
+7;COMUN;Sofia Perez;4;18000
+8;PREMIUM;Marta Diaz;3;35000
